@@ -54,7 +54,7 @@ elfutils-default-yama-scope.noarch       0.176-5.an7                    @System
 elfutils-libelf.x86_64                   0.176-5.an7                    @System 
 elfutils-libs.x86_64                     0.176-5.an7                    @System 
 emacs-filesystem.noarch                  1:24.3-23.0.1.an7              @updates
-epel-release.noarch                      7-14                           @System 
+epel-release.noarch                      7-14                           @epel   
 expat.x86_64                             2.1.0-15.an7                   @System 
 expect.x86_64                            5.45-14.an7                    @os     
 file.x86_64                              5.11-37.an7                    @os     
